@@ -33,7 +33,6 @@ Historical data of companies Stock is taken from `Yahoo Finance`.
   
 
 
-All the external dependencies can be installed by using ```pip install -r requirements.txt```
 
 ## Results
 
